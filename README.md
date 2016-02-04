@@ -1,7 +1,6 @@
 # sbpi_g-maps
 
 ===== sbpi!g Maps README LICENSE =====
-~Content Frame~
 
 1. Introduction
 2. Use of Agreements
@@ -9,7 +8,6 @@
 4. Open Source Code
 5. Terms and Regulations
 
-~ end content frame ~
 
 1. Introduction
 
@@ -25,7 +23,6 @@ If and only if the user agrees this agreements and met it - even though it is no
 
   2.1 Agreements (I)
     The user, named sbpi!ger after this, will be using this program for personal use only. Distrubuting, copying, modding, publishing and publicize this project will be sued. (not really but really don't EVER do it)
-    * This is an agreement. kbye*
     
 3. License
 
